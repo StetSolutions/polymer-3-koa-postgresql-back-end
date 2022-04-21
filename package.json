@@ -29,7 +29,7 @@
     "passport-local": "^1.0.0",
     "pg": "^7.4.0",
     "pg-extra": "^0.1.1",
-    "puppeteer": "^0.11.0",
+    "puppeteer": "^1.13.0",
     "rate-limiter-flexible": "^0.22.7",
     "shortid": "^2.2.8"
   },
